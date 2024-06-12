@@ -7,4 +7,4 @@ function Usuario(name) {
 
 let user = new Usuario('Pomelo');
 let user2 = new Usuario('Rosado');
-console.log(user, user2)
+console.log(user, user2);
