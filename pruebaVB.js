@@ -55,3 +55,4 @@ let result = FunctiontoSplitnumber(nroFactura)
 
 console.log(result)
 
+
